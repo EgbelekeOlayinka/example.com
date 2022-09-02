@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(240, 240, 242);
+  border-radius: 2px 2px;
+  border-width: 1.5px 1.5px 1.5px 1.5px;
+  border-color: royalblue;
+}
+main {
+  background-color: rgb(253, 253, 255);
+  width: 600px;
+  margin: 5em auto;
+  padding: 2em;
+  box-shadow: 5px 3px 7px 5px royalblue;
+}
+h1 {
+  text-shadow: 1.5px 1.5px blue;
+  font-style: italic;
+}
